@@ -23,4 +23,5 @@
 This is a LAN connection; both players must be on the same Wi-Fi/LAN. To allow friends from outside the network to join, you also need to configure router port forwarding; simply sharing a LAN IP address will not work.
 
 # Game Screenshots
-<img width="1341" height="735" alt="image" src="https://github.com/user-attachments/assets/817ed408-945c-47d2-abde-3603a45079d0" />
+<img width="1366" height="634" alt="image" src="https://github.com/user-attachments/assets/7a116f29-7f24-4a4a-bbe3-fa46577b7dc1" />
+
